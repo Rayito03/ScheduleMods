@@ -1,0 +1,9 @@
+{
+  "name": "moreThings",
+  "version_number": "1.1.6",
+  "website_url": "https://github.com/masterxxstabs/moreThings/tree/master",
+  "description": "A mod that adds more things to the game schedule 1",
+  "dependencies": [
+    "LavaGang-MelonLoader-0.7.0"
+  ]
+}
